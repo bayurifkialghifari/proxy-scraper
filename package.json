@@ -1,0 +1,14 @@
+{
+  "name": "spys-proxy-scraper",
+  "version": "1.0.0",
+  "description": "Scrape SOCKS proxies from spys.one",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^24.38.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}

@@ -1,0 +1,51 @@
+name: Daily Proxy Scraper
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install NPM Dependencies
+        run: npm install
+
+      - name: Install Puppeteer System Libraries
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libgbm-dev libnss3 libatk-bridge2.0-0 libxcomposite1 libxrandr2 libxdamage1 libxkbcommon-x11-0 libasound2
+
+      - name: Run Scraper Script
+        run: node index.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.name "GitHub Actions Bot"
+          git config --local user.email "actions@github.com"
+
+          git add proxies.md
+
+          if git diff --staged --quiet; then
+            echo "No new proxy data changes, skipping commit process."
+          else
+            TIMESTAMP=$(date +'%Y-%m-%d %H:%M:%S')
+
+            git commit -m "Update SOCKS Proxy List - $TIMESTAMP"
+            git push
+          fi
