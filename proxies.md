@@ -2,18 +2,19 @@
 
 > Scraped automatically via GitHub Actions.
 
-**Last Updated:** 04/03/2026 20:16:15 WIB
+**Last Updated:** 04/03/2026 20:43:22 WIB
 
 **Total Proxies:** 500
 
 | Proxy (IP:Port) | Type | Anonymity | Country | Latency | Uptime | Check Date |
 | --- | --- | --- | --- | --- | --- | --- |
+| `72.206.74.126:4145` | SOCKS5 | HIA | United States (Fairfax) | 1.073 | 100% (19) - | 04-mar-2026 16:32 (10 mins ago) |
 | `94.159.106.252:1080` | SOCKS5 | HIA | Germany (Frankfurt am Main) | 0.483 | 14% (9) - | 04-mar-2026 13:45 (2 hours ago) |
 | `37.27.100.102:443` | SOCKS5 | HIA | Finland (Helsinki) !!! | 4.321 | 100% (2) - | 04-mar-2026 10:48 (5 hours ago) |
-| `72.207.113.97:4145` | SOCKS5 | HIA | United States (Killeen) | 1.046 | 100% (29) - | 04-mar-2026 10:41 (5 hours ago) |
+| `72.207.113.97:4145` | SOCKS5 | HIA | United States (Killeen) | 1.046 | 100% (29) - | 04-mar-2026 10:41 (6 hours ago) |
 | `70.166.65.160:4145` | SOCKS5 | HIA | United States (Roanoke) | 1.044 | 96% (25) - | 03-mar-2026 22:52 (17 hours ago) |
-| `47.83.199.137:58367` | SOCKS5 | HIA | Hong Kong (Hong Kong) | 3.133 | 100% (2) - | 03-mar-2026 19:39 (20 hours ago) |
-| `123.214.62.25:6881` | SOCKS5 | HIA | South Korea (Seongnam-si) | 1.809 | 40% (4) + | 03-mar-2026 16:40 (23 hours ago) |
+| `47.83.199.137:58367` | SOCKS5 | HIA | Hong Kong (Hong Kong) | 3.133 | 100% (2) - | 03-mar-2026 19:39 (21 hours ago) |
+| `123.214.62.25:6881` | SOCKS5 | HIA | South Korea (Seongnam-si) | 1.809 | 40% (4) + | 03-mar-2026 16:40 (1 days ago) |
 | `98.191.0.37:4145` | SOCKS5 | HIA | United States (Roanoke) | 1.018 | 98% (101) - | 03-mar-2026 14:50 (1 days ago) |
 | `113.20.28.68:1080` | SOCKS5 | HIA | Indonesia | 1.968 | 25% (3) - | 03-mar-2026 09:52 (1 days ago) |
 | `110.235.252.146:1080` | SOCKS5 | HIA | Cambodia (Phnom Penh) | 1.498 | 25% (16) + | 03-mar-2026 09:46 (1 days ago) |
@@ -70,7 +71,7 @@
 | `43.160.195.20:20005` | SOCKS5 | HIA | Singapore (Singapore) | 1 | 100% (3) - | 01-mar-2026 03:55 (3 days ago) |
 | `173.249.3.59:1080` | SOCKS5 | HIA | France (Lauterbourg) | 2.092 |  | 28-feb-2026 22:30 (3 days ago) |
 | `82.200.235.134:19170` | SOCKS5 | HIA | Kazakhstan (Almaty Region) | 4.984 | 20% (4) - | 28-feb-2026 20:06 (3 days ago) |
-| `46.105.189.70:1090` | SOCKS5 | HIA | France | 10.027 |  | 28-feb-2026 16:28 (3 days ago) |
+| `46.105.189.70:1090` | SOCKS5 | HIA | France | 10.027 |  | 28-feb-2026 16:28 (4 days ago) |
 | `156.255.90.27:58367` | SOCKS5 | HIA | Hong Kong (Ha Kwai Chung) | 4.007 |  | 28-feb-2026 13:42 (4 days ago) |
 | `134.209.204.31:1080` | SOCKS5 | HIA | Netherlands (Amsterdam) | 2.201 | 40% (2) - | 28-feb-2026 09:58 (4 days ago) |
 | `132.145.93.138:1080` | SOCKS5 | HIA | South Korea (Seoul) | 2.18 | 75% (3) + | 28-feb-2026 09:57 (4 days ago) |
@@ -84,8 +85,8 @@
 | `95.165.82.189:1080` | SOCKS5 | HIA | Russia (Moscow) | 4.56 | 100% (2) + | 28-feb-2026 03:38 (4 days ago) |
 | `203.189.136.18:1080` | SOCKS5 | HIA | Cambodia (Phnom Penh) | 16.959 | 25% (2) - | 27-feb-2026 22:30 (4 days ago) |
 | `154.64.232.32:10000` | SOCKS5 | HIA | United States (Los Angeles) | 1.001 |  | 27-feb-2026 18:41 (4 days ago) |
-| `61.9.34.118:58765` | SOCKS5 | HIA | Philippines | 1.374 | 11% (2) - | 27-feb-2026 16:41 (4 days ago) |
-| `72.207.109.5:4145` | SOCKS5 | HIA | United States (Killeen) | 1.304 | 98% (54) - | 27-feb-2026 16:19 (4 days ago) |
+| `61.9.34.118:58765` | SOCKS5 | HIA | Philippines | 1.374 | 11% (2) - | 27-feb-2026 16:41 (5 days ago) |
+| `72.207.109.5:4145` | SOCKS5 | HIA | United States (Killeen) | 1.304 | 98% (54) - | 27-feb-2026 16:19 (5 days ago) |
 | `103.187.39.21:1080` | SOCKS5 | HIA | Bangladesh !!! | 16.805 | 17% (14) - | 27-feb-2026 12:56 (5 days ago) |
 | `135.125.175.107:1080` | SOCKS5 | HIA | France !!! | 0.184 |  | 27-feb-2026 10:07 (5 days ago) |
 | `130.254.47.243:50161` | SOCKS5 | HIA | United States | 13.277 |  | 27-feb-2026 10:02 (5 days ago) |
@@ -113,7 +114,7 @@
 | `103.118.85.144:1080` | SOCKS5 | HIA | Bangladesh !!! | 1.498 | 19% (9) - | 25-feb-2026 19:34 (6 days ago) |
 | `47.83.243.232:1024` | SOCKS5 | HIA | Hong Kong (Hong Kong) | 1.844 | 11% (1) - | 25-feb-2026 18:33 (6 days ago) |
 | `198.177.253.13:4145` | SOCKS5 | HIA | United States | 5.586 | 98% (64) + | 25-feb-2026 16:48 (6 days ago) |
-| `35.212.180.156:58367` | SOCKS5 | HIA | United States (The Dalles) | 2.181 | 25% (1) + | 25-feb-2026 16:31 (6 days ago) |
+| `35.212.180.156:58367` | SOCKS5 | HIA | United States (The Dalles) | 2.181 | 25% (1) + | 25-feb-2026 16:31 (7 days ago) |
 | `118.71.215.63:5000` | SOCKS5 | HIA | VietNam (Hanoi) | 3.631 | 25% (1) - | 25-feb-2026 10:00 (7 days ago) |
 | `113.176.118.150:1080` | SOCKS5 | HIA | VietNam (Ho Chi Minh City) | 4.368 | 15% (89) - | 25-feb-2026 09:48 (7 days ago) |
 | `103.206.69.65:1080` | SOCKS5 | HIA | Cambodia (Phnom Penh) | 4.331 | 60% (3) - | 25-feb-2026 09:17 (7 days ago) |
@@ -126,7 +127,7 @@
 | `149.28.8.135:1080` | SOCKS5 | HIA | United States (Kent) | 7.945 | 100% (2) - | 24-feb-2026 20:10 (7 days ago) |
 | `104.37.184.214:1080` | SOCKS5 | HIA | United States | 12.402 | 17% (1) - | 24-feb-2026 19:38 (7 days ago) |
 | `46.146.216.44:1080` | SOCKS5 | HIA | Russia (Perm) | 7.64 | 50% (1) - | 24-feb-2026 17:06 (7 days ago) |
-| `159.223.53.194:1080` | SOCKS5 | HIA | Singapore (Singapore) | 1.409 |  | 24-feb-2026 16:39 (7 days ago) |
+| `159.223.53.194:1080` | SOCKS5 | HIA | Singapore (Singapore) | 1.409 |  | 24-feb-2026 16:39 (8 days ago) |
 | `109.94.67.250:1080` | SOCKS5 | HIA | Russia | 7.763 |  | 24-feb-2026 09:44 (8 days ago) |
 | `104.248.198.6:1080` | SOCKS5 | HIA | Netherlands (Amsterdam) | 3.154 | 16% (3) - | 24-feb-2026 09:34 (8 days ago) |
 | `67.201.35.145:4145` | SOCKS5 | HIA | United States | 1.108 | 99% (108) + | 24-feb-2026 09:09 (8 days ago) |
@@ -221,7 +222,6 @@
 | `108.165.120.10:1080` | SOCKS5 | HIA | United States (Houston) | 3.513 | 13% (1) - | 16-feb-2026 09:31 (16 days ago) |
 | `67.210.146.50:11080` | SOCKS5 | HIA | United States (Princeton) | 8.071 | 14% (124) - | 16-feb-2026 05:56 (16 days ago) |
 | `193.106.150.70:1080` | SOCKS5 | HIA | Netherlands (Meppel) | 6.208 | 100% (2) - | 16-feb-2026 05:45 (16 days ago) |
-| `72.206.74.126:4145` | SOCKS5 | HIA | United States (Fairfax) | 1.112 | 100% (18) - | 16-feb-2026 03:46 (16 days ago) |
 | `154.223.20.245:4444` | SOCKS5 | HIA | Taiwan (Taipei) | 2.545 | 50% (1) - | 15-feb-2026 22:44 (16 days ago) |
 | `154.17.27.79:21266` | SOCKS5 | HIA | United States (Los Angeles) !!! | 14.638 | 20% (1) - | 15-feb-2026 14:07 (17 days ago) |
 | `202.62.59.218:1080` | SOCKS5 | HIA | Cambodia (Phnom Penh) | 4.609 | 14% (1) - | 15-feb-2026 14:05 (17 days ago) |
@@ -285,7 +285,7 @@
 | `192.252.210.233:4145` | SOCKS5 | HIA | United States | 0.946 | 100% (109) + | 03-feb-2026 03:48 (29 days ago) |
 | `98.175.31.195:4145` | SOCKS5 | HIA | United States (Norfolk) | 1.044 | 91% (2563) - | 02-feb-2026 20:02 (29 days ago) |
 | `185.86.5.162:8975` | SOCKS5 | HIA | Turkey (Istanbul) !!! | 0.853 | 4% (38) - | 02-feb-2026 20:02 (29 days ago) |
-| `178.62.116.7:1080` | SOCKS5 | HIA | United Kingdom (Slough) | 0.173 | 25% (1) + | 02-feb-2026 16:43 (29 days ago) |
+| `178.62.116.7:1080` | SOCKS5 | HIA | United Kingdom (Slough) | 0.173 | 25% (1) + | 02-feb-2026 16:43 (30 days ago) |
 | `203.202.243.196:1088` | SOCKS5 | HIA | Bangladesh (Dhaka) | 1.153 | 17% (1) - | 02-feb-2026 13:06 (30 days ago) |
 | `103.115.17.121:1234` | SOCKS5 | HIA | South Korea (Seoul) | 4.729 | 33% (1) - | 01-feb-2026 08:57 (31 days ago) |
 | `102.36.127.231:1080` | SOCKS5 | HIA | South Africa (Nelspruit) !!! | 1.191 | 16% (24) - | 01-feb-2026 08:54 (31 days ago) |
@@ -338,7 +338,7 @@
 | `103.143.89.9:1080` | SOCKS5 | HIA | Bangladesh !!! | 8.463 | 8% (1) - | 24-jan-2026 09:03 (39 days ago) |
 | `212.34.145.210:31825` | SOCKS5 | HIA | Netherlands (Amsterdam) | 9.432 | 33% (1) - | 23-jan-2026 20:10 (39 days ago) |
 | `116.105.24.222:9166` | SOCKS5 | HIA | VietNam !!! | 9.812 | 20% (1) - | 23-jan-2026 20:06 (39 days ago) |
-| `185.95.0.197:57032` | SOCKS5 | HIA | Turkey | 8.92 | 8% (1) - | 23-jan-2026 16:37 (39 days ago) |
+| `185.95.0.197:57032` | SOCKS5 | HIA | Turkey | 8.92 | 8% (1) - | 23-jan-2026 16:37 (40 days ago) |
 | `91.142.79.166:1080` | SOCKS5 | HIA | Russia | 0.376 | 40% (2) - | 23-jan-2026 13:58 (40 days ago) |
 | `193.222.97.61:41405` | SOCKS5 | HIA | Finland (Helsinki) | 17.239 | 50% (1) - | 23-jan-2026 11:02 (40 days ago) |
 | `190.108.57.127:1085` | SOCKS5 | HIA | Argentina (Santa Rosa) !!! | 8.831 | 4% (1) - | 23-jan-2026 10:34 (40 days ago) |
@@ -350,7 +350,7 @@
 | `64.188.81.172:10524` | SOCKS5 | HIA | Sweden (Stockholm) | 0.3 | 75% (3) - | 23-jan-2026 07:36 (40 days ago) |
 | `150.241.116.247:2080` | SOCKS5 | HIA | United States | 4.149 | 50% (1) - | 22-jan-2026 22:36 (40 days ago) |
 | `37.44.238.2:52611` | SOCKS5 | HIA | France | 4.308 | 10% (7) - | 22-jan-2026 17:01 (40 days ago) |
-| `162.55.234.22:5153` | SOCKS5 | HIA | Germany (Falkenstein) !!! | 18.404 |  | 22-jan-2026 16:33 (40 days ago) |
+| `162.55.234.22:5153` | SOCKS5 | HIA | Germany (Falkenstein) !!! | 18.404 |  | 22-jan-2026 16:33 (41 days ago) |
 | `185.209.28.8:15729` | SOCKS5 | HIA | Russia (Moscow) | 4.383 |  | 22-jan-2026 10:30 (41 days ago) |
 | `109.122.198.252:64383` | SOCKS5 | HIA | Germany (Frankfurt am Main) | 3.28 | 50% (1) - | 22-jan-2026 09:38 (41 days ago) |
 | `168.119.126.160:35856` | SOCKS5 | HIA | Germany (Nuremberg) | 1.149 | 40% (2) + | 22-jan-2026 05:51 (41 days ago) |
@@ -382,7 +382,7 @@
 | `46.0.205.4:1080` | SOCKS5 | HIA | Russia (Samara) | 0.778 | 15% (5) - | 18-jan-2026 10:47 (45 days ago) |
 | `185.231.204.221:6115` | SOCKS5 | HIA | Russia | 4.403 | 17% (9) - | 18-jan-2026 10:34 (45 days ago) |
 | `176.115.139.141:1080` | SOCKS5 | HIA | Russia (Kizlyar) | 3.817 | 25% (2) - | 18-jan-2026 05:32 (45 days ago) |
-| `87.98.129.151:34356` | SOCKS5 | HIA | France | 3.191 | 26% (10) - | 17-jan-2026 16:43 (45 days ago) |
+| `87.98.129.151:34356` | SOCKS5 | HIA | France | 3.191 | 26% (10) - | 17-jan-2026 16:43 (46 days ago) |
 | `47.83.227.95:1100` | SOCKS5 | HIA | Hong Kong (Hong Kong) | 24.299 |  | 17-jan-2026 13:48 (46 days ago) |
 | `62.60.131.178:18840` | SOCKS5 | HIA | Iran (Tehran) !!! | 7.599 |  | 17-jan-2026 13:39 (46 days ago) |
 | `124.248.177.116:1080` | SOCKS5 | HIA | Cambodia (Phnom Penh) | 1.362 | 32% (7) - | 17-jan-2026 06:09 (46 days ago) |
@@ -391,7 +391,7 @@
 | `5.129.214.202:10521` | SOCKS5 | HIA | Netherlands (Amsterdam) | 0.184 | 29% (2) - | 16-jan-2026 01:07 (47 days ago) |
 | `89.110.80.195:10149` | SOCKS5 | HIA | Netherlands (Amsterdam) | 3.418 | 60% (6) - | 15-jan-2026 18:46 (47 days ago) |
 | `203.189.153.168:1080` | SOCKS5 | HIA | Cambodia (Phnom Penh) | 9.451 | 29% (2) - | 15-jan-2026 17:52 (47 days ago) |
-| `156.252.0.250:59249` | SOCKS5 | HIA | United States | 0.828 | 21% (7) - | 15-jan-2026 16:31 (47 days ago) |
+| `156.252.0.250:59249` | SOCKS5 | HIA | United States | 0.828 | 21% (7) - | 15-jan-2026 16:31 (48 days ago) |
 | `46.146.210.123:1080` | SOCKS5 | HIA | Russia (Perm) | 0.722 | 5% (6) - | 15-jan-2026 13:29 (48 days ago) |
 | `47.76.155.38:1100` | SOCKS5 | HIA | Hong Kong (Hong Kong) !!! | 4.693 | 33% (1) - | 15-jan-2026 10:34 (48 days ago) |
 | `116.105.20.3:9101` | SOCKS5 | HIA | VietNam !!! | 19.582 |  | 15-jan-2026 09:34 (48 days ago) |
@@ -507,4 +507,4 @@
 | `47.236.181.191:1080` | SOCKS5 | HIA | Singapore | 2.401 | 50% (1) - | 10-dec-2025 14:05 (84 days ago) |
 | `47.86.42.72:1100` | SOCKS5 | HIA | Hong Kong (Hong Kong) | 11.666 | 25% (1) - | 09-dec-2025 03:41 (85 days ago) |
 | `81.180.92.198:1081` | SOCKS5 | HIA | Romania | 18.703 | 50% (1) - | 08-dec-2025 18:31 (85 days ago) |
-| `8.219.236.161:1145` | SOCKS5 | HIA | Singapore | 7.496 | 50% (2) - | 07-dec-2025 16:30 (86 days ago) |
+| `8.219.236.161:1145` | SOCKS5 | HIA | Singapore | 7.496 | 50% (2) - | 07-dec-2025 16:30 (87 days ago) |
