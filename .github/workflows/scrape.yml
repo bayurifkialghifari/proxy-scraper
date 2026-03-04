@@ -32,7 +32,7 @@ jobs:
       - name: Install Puppeteer System Libraries
         run: |
           sudo apt-get update
-          sudo apt-get install -y libgbm-dev libnss3 libatk-bridge2.0-0 libxcomposite1 libxrandr2 libxdamage1 libxkbcommon-x11-0 libasound2
+          sudo apt-get install -y libgbm-dev libnss3 libatk-bridge2.0-0 libxcomposite1 libxrandr2 libxdamage1 libxkbcommon-x11-0 libasound2t64
 
       - name: Run Scraper Script
         run: node index.js
