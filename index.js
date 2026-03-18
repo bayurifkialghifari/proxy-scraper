@@ -47,8 +47,14 @@ async function scrapeSpysOne() {
 
         // Attempt to change the view to "500 per page" if possible
         try {
-            await page.select('#xpp', '5'); // The value '5' usually means 500 items on spys.one
-            await page.waitForNavigation({ waitUntil: 'domcontentloaded', timeout: 30000 });
+            // Must fire select and waitForNavigation concurrently — select triggers navigation
+            // immediately, so calling waitForNavigation after would miss it (context destroyed).
+            await Promise.all([
+                page.waitForNavigation({ waitUntil: 'domcontentloaded', timeout: 30000 }),
+                page.select('#xpp', '5'), // The value '5' usually means 500 items on spys.one
+            ]);
+            // Give the page a moment to fully settle after navigation
+            await new Promise(resolve => setTimeout(resolve, 2000));
             console.log('Successfully changed the view to 500 proxies per page.');
         } catch (e) {
             console.log('Failed to change the items per page dropdown, proceeding with the default view.');
